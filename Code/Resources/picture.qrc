@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="qrcode">D:/我的文档/Tencent Files/1323993164/FileRecv/MobileFile/QrCode.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
